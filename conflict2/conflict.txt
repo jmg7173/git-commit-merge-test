@@ -1,1 +1,1 @@
-some conflict text first text
+some conflict text first text second text
