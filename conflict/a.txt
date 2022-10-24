@@ -1,1 +1,2 @@
-some text
+some text / this text after conflict text
+new line
